@@ -78,9 +78,10 @@ The project includes visualizations to analyze sales data, profitability, and di
 
 ## Credits
 
-- Created by [Your Name]
-- Date: [Date]
+- Created by [Muhammad Suleman]
+
 
 ## Contact
 
-For questions or feedback, contact [Your Email Address].
+For questions or feedback, contact [Muhammadsuleman94@hotmail.com].
+![Dashboard 1](https://github.com/SulemanShahani/Advanced-Sales-Analysis-with-Tableau-and-SQL-Integration/assets/164818514/c8c3f7f1-8da2-4d02-aeab-20a9551be559)
